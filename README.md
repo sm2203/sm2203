@@ -1,7 +1,9 @@
-# Hi👋, I'm Shreya Maliwal
+# Hi👋 I'm Shreya Maliwal
 ### Data Analyst
 
-Currently working at Connected-Energy with time-series data to analyse, monitor and optimise BESS using Python, SQL, AWS and data modelling techniques.
+Data Analyst with 3+ years of experience turning large, complex datasets into actionable insights across the energy and financial sectors. 
+Currently at Connected Energy, I analyse large-scale time-series data from battery energy storage systems using Python, SQL, R, and AWS, applying exploratory data analysis, unsupervised machine learning, and automated reporting to support operational and commercial decision-making. 
+Strong in statistical analysis, exploratory data analysis, machine learning, and presenting clear recommendations to non-technical stakeholders.
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/shreya-maliwal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
