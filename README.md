@@ -5,9 +5,6 @@ Data Analyst with 3+ years of experience turning large, complex datasets into ac
 Currently at Connected Energy, I analyse large-scale time-series data from battery energy storage systems using Python, SQL, R, and AWS, applying exploratory data analysis, unsupervised machine learning, and automated reporting to support operational and commercial decision-making. 
 Strong in statistical analysis, exploratory data analysis, machine learning, and presenting clear recommendations to non-technical stakeholders.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/shreya-maliwal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-
 ## Skills
 
 <p align="left">
@@ -24,6 +21,10 @@ Strong in statistical analysis, exploratory data analysis, machine learning, and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
 </p>
 
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sm2203&theme=tokyonight" alt="GitHub Streak" />
+
 ## Projects
 
 ### Statistical Modelling of Environmental Extremes
@@ -39,8 +40,5 @@ A university project where I utilised my Python and SQL skills to create the bac
 [View Project](https://github.com/sm2203/Time-Recroder)
 
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sm2203&theme=tokyonight" alt="GitHub Streak" />
-
-
+## Contact Me
+<p><a href="https://www.linkedin.com/in/shreya-maliwal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
