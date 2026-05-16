@@ -26,18 +26,19 @@ Currently working at Connected-Energy with time-series data to analyse, monitor 
 
 ### Statistical Modelling of Environmental Extremes
 
----
+Applied Extreme Value Theory using Generalised Extreme Value and Generalised Pareto models to analyse extreme temperatures across 8 U.S. cities, assessing seasonality, long-term trends, and future climate risk relevant to energy demand and infrastructure resilience. This was submitted to the University of Bath for the dissertation project of MSc Data Science and Statistics. 
+
+[View Project](https://github.com/sm2203/StatisticalExtremes)
+
+### Time Recorder Application
+
+A university project where I utilised my Python and SQL skills to create the backend for a time recorder web application. The web application is able to record and store the name of the activity, start and end time of the activity and overlapping duration with other activities.
+
+[View Project](https://github.com/sm2203/Time-Recroder)
+
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sm2203&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm2203&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm2203&theme=tokyonight" alt="GitHub Streak" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sm2203" alt="trophy" />
 
 
