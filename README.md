@@ -1,7 +1,6 @@
 # Hi👋 I'm Shreya Maliwal
-### Data Analyst
 
-Data Analyst with 3+ years of experience turning large, complex datasets into actionable insights across the energy and financial sectors. 
+I have 3+ years of experience turning large, complex datasets into actionable insights across the energy and financial industry. 
 Currently at Connected Energy, I analyse large-scale time-series data from battery energy storage systems using Python, SQL, R, and AWS, applying exploratory data analysis, unsupervised machine learning, and automated reporting to support operational and commercial decision-making. 
 Strong in statistical analysis, exploratory data analysis, machine learning, and presenting clear recommendations to non-technical stakeholders.
 
